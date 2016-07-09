@@ -5,7 +5,7 @@ using namespace std;
 int main(){
 	int n;
 	cin >> n;
-	cout << sum(a) << endl;
+	cout << sum(n) << endl;
 	return 0;
 }
 
