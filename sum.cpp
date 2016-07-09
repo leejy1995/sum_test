@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <sum.h>
-
 int sum(int n){
 	int i;
 	int sum = 0;
